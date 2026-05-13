@@ -1,22 +1,5 @@
 {
-  "updated": "2026-05-12T10:00:00",
-  "standings": [
-    { "rank": 1, "team": "中信兄弟", "win": 18, "loss": 9,  "draw": 0, "pct": ".667", "gb": "-",  "streak": "W3" },
-    { "rank": 2, "team": "統一獅",   "win": 16, "loss": 11, "draw": 0, "pct": ".593", "gb": "2.0", "streak": "W1" },
-    { "rank": 3, "team": "樂天桃猿", "win": 14, "loss": 13, "draw": 0, "pct": ".519", "gb": "4.0", "streak": "L2" },
-    { "rank": 4, "team": "富邦悍將", "win": 13, "loss": 14, "draw": 0, "pct": ".481", "gb": "5.0", "streak": "L1" },
-    { "rank": 5, "team": "味全龍",   "win": 11, "loss": 16, "draw": 0, "pct": ".407", "gb": "7.0", "streak": "W2" },
-    { "rank": 6, "team": "台鋼雄鷹", "win": 9,  "loss": 18, "draw": 0, "pct": ".333", "gb": "9.0", "streak": "L3" }
-  ],
-  "recent": [
-    { "date": "2026/05/11", "away": "富邦悍將", "away_score": 3, "home": "中信兄弟", "home_score": 7 },
-    { "date": "2026/05/11", "away": "味全龍",   "away_score": 5, "home": "台鋼雄鷹", "home_score": 2 },
-    { "date": "2026/05/11", "away": "統一獅",   "away_score": 4, "home": "樂天桃猿", "home_score": 4 },
-    { "date": "2026/05/10", "away": "富邦悍將", "away_score": 6, "home": "中信兄弟", "home_score": 8 },
-    { "date": "2026/05/10", "away": "味全龍",   "away_score": 1, "home": "台鋼雄鷹", "home_score": 3 },
-    { "date": "2026/05/10", "away": "統一獅",   "away_score": 7, "home": "樂天桃猿", "home_score": 2 },
-    { "date": "2026/05/09", "away": "中信兄弟", "away_score": 5, "home": "樂天桃猿", "home_score": 3 },
-    { "date": "2026/05/09", "away": "台鋼雄鷹", "away_score": 2, "home": "統一獅",   "home_score": 6 },
-    { "date": "2026/05/09", "away": "味全龍",   "away_score": 4, "home": "富邦悍將", "home_score": 1 }
-  ]
+  "updated": "2026-05-13T00:26:48.849909",
+  "standings": [],
+  "recent": []
 }
