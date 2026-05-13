@@ -16,9 +16,7 @@ jobs:
         with:
           python-version: '3.11'
       - name: 安裝套件
-        run: pip install requests beautifulsoup4 playwright
-      - name: 安裝 Chromium
-        run: playwright install chromium --with-deps
+        run: pip install requests beautifulsoup4
       - name: 抓取資料
         run: python fetch_data.py
       - name: Commit and Push
