@@ -1,5 +1,66 @@
 {
-  "updated": "2026-05-13T04:22:06.861816",
-  "standings": [],
+  "updated": "2026-05-13T10:35:43.379747",
+  "standings": [
+    {
+      "rank": 1,
+      "team": "中信兄弟",
+      "win": 0,
+      "loss": 0,
+      "draw": 0,
+      "pct": ".000",
+      "gb": "-",
+      "streak": ""
+    },
+    {
+      "rank": 2,
+      "team": "統一獅",
+      "win": 0,
+      "loss": 0,
+      "draw": 0,
+      "pct": ".000",
+      "gb": "0.0",
+      "streak": ""
+    },
+    {
+      "rank": 3,
+      "team": "樂天桃猿",
+      "win": 0,
+      "loss": 0,
+      "draw": 0,
+      "pct": ".000",
+      "gb": "0.0",
+      "streak": ""
+    },
+    {
+      "rank": 4,
+      "team": "富邦悍將",
+      "win": 0,
+      "loss": 0,
+      "draw": 0,
+      "pct": ".000",
+      "gb": "0.0",
+      "streak": ""
+    },
+    {
+      "rank": 5,
+      "team": "味全龍",
+      "win": 0,
+      "loss": 0,
+      "draw": 0,
+      "pct": ".000",
+      "gb": "0.0",
+      "streak": ""
+    },
+    {
+      "rank": 6,
+      "team": "台鋼雄鷹",
+      "win": 0,
+      "loss": 0,
+      "draw": 0,
+      "pct": ".000",
+      "gb": "0.0",
+      "streak": ""
+    }
+  ],
   "recent": []
 }
