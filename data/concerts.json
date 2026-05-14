@@ -1,0 +1,95 @@
+{
+  "updated": "2026-05-14T00:13:57.876860",
+  "concerts": [
+    {
+      "title": "YOASOBI 台灣演唱會 2026",
+      "date": "2026/05/16",
+      "venue": "台北大巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1323",
+      "platform": "tickettw"
+    },
+    {
+      "title": "五月天 台北演唱會 2026",
+      "date": "2026/07/03",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/05/23 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1327",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "NMIXX 高雄演唱會 2026",
+      "date": "2026/07/11",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/05/14 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1356",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "SEVENTEEN小分隊DxS 高雄演唱會 2026",
+      "date": "2026/07/25",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/05/10 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1367",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "aespa 台北演唱會 2026",
+      "date": "2026/08/11",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/05/17 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1365",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "back number 台北演唱會 2026",
+      "date": "2026/08/22",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/05/07 TICKET PLUS",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1349",
+      "platform": "TICKET PLUS"
+    },
+    {
+      "title": "IVE 台北演唱會 2026",
+      "date": "2026/09/11",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/04/03 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1355",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "XG 台北演唱會 2026",
+      "date": "2026/10/17",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/04/30 寬宏",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1366",
+      "platform": "寬宏"
+    },
+    {
+      "title": "Vaundy 台北演唱會 2026",
+      "date": "2026/10/31",
+      "venue": "台北小巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1342",
+      "platform": "tickettw"
+    },
+    {
+      "title": "BABYMONSTER 台北演唱會 2026",
+      "date": "2026/11/21",
+      "venue": "台北小巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1376",
+      "platform": "tickettw"
+    }
+  ]
+}
