@@ -1,24 +1,6 @@
 {
-  "updated": "2026-05-15T10:29:43.286930",
+  "updated": "2026-05-16T00:19:48.144260",
   "concerts": [
-    {
-      "title": "孫燕姿 台北演唱會 2026",
-      "date": "2026/05/15",
-      "venue": "台北大巨蛋",
-      "sale_date": "2026/03/20 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1343",
-      "platform": "KKTIX"
-    },
-    {
-      "title": "動力火車 台北演唱會 2026",
-      "date": "2026/05/15",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/01/25 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1312",
-      "platform": "KKTIX"
-    },
     {
       "title": "YOASOBI 台灣演唱會 2026",
       "date": "2026/05/16",
