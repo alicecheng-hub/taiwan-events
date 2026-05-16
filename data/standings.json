@@ -1,88 +1,66 @@
 {
-  "updated": "2026-05-16T10:24:49.401220",
+  "updated": "2026-05-16T23:20:06.638381",
   "standings": [
     {
       "team": "味全龍",
-      "win": 19,
+      "win": 20,
       "loss": 13,
       "draw": 0,
-      "pct": ".594",
+      "pct": ".606",
       "gb": "-",
-      "streak": "W2",
+      "streak": "",
       "rank": 1
     },
     {
       "team": "富邦悍將",
-      "win": 17,
+      "win": 18,
       "loss": 13,
       "draw": 0,
-      "pct": ".567",
+      "pct": ".581",
       "gb": "1.0",
-      "streak": "L1",
+      "streak": "",
       "rank": 2
     },
     {
       "team": "統一獅",
       "win": 17,
-      "loss": 15,
+      "loss": 16,
       "draw": 0,
-      "pct": ".531",
-      "gb": "2.0",
-      "streak": "W3",
+      "pct": ".515",
+      "gb": "3.0",
+      "streak": "",
       "rank": 3
     },
     {
       "team": "台鋼雄鷹",
       "win": 17,
-      "loss": 16,
+      "loss": 17,
       "draw": 0,
-      "pct": ".515",
-      "gb": "2.5",
-      "streak": "L3",
+      "pct": ".500",
+      "gb": "3.5",
+      "streak": "",
       "rank": 4
     },
     {
       "team": "樂天桃猿",
       "win": 13,
-      "loss": 18,
+      "loss": 19,
       "draw": 0,
-      "pct": ".419",
-      "gb": "5.5",
-      "streak": "L3",
+      "pct": ".406",
+      "gb": "6.5",
+      "streak": "",
       "rank": 5
     },
     {
       "team": "中信兄弟",
-      "win": 10,
+      "win": 11,
       "loss": 22,
       "draw": 0,
-      "pct": ".313",
+      "pct": ".333",
       "gb": "9.0",
-      "streak": "W2",
+      "streak": "",
       "rank": 6
     }
   ],
-  "recent": [
-    {
-      "date": "2026/05/15",
-      "away": "樂天桃猿",
-      "away_score": 1,
-      "home": "味全龍",
-      "home_score": 3
-    },
-    {
-      "date": "2026/05/15",
-      "away": "台鋼雄鷹",
-      "away_score": 1,
-      "home": "富邦悍將",
-      "home_score": 3
-    },
-    {
-      "date": "2026/05/15",
-      "away": "中信兄弟",
-      "away_score": 7,
-      "home": "統一獅",
-      "home_score": 4
-    }
-  ]
+  "recent": []
 }
