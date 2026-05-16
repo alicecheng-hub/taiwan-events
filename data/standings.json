@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T05:22:09.298166",
+  "updated": "2026-05-16T10:19:44.570444",
   "standings": [
     {
       "team": "味全龍",
@@ -17,7 +17,7 @@
       "loss": 13,
       "draw": 0,
       "pct": ".567",
-      "gb": "1.0",
+      "gb": "-",
       "streak": "",
       "rank": 2
     },
@@ -27,7 +27,7 @@
       "loss": 15,
       "draw": 0,
       "pct": ".531",
-      "gb": "2.0",
+      "gb": "-",
       "streak": "",
       "rank": 3
     },
@@ -37,7 +37,7 @@
       "loss": 16,
       "draw": 0,
       "pct": ".515",
-      "gb": "2.5",
+      "gb": "-",
       "streak": "",
       "rank": 4
     },
@@ -47,7 +47,7 @@
       "loss": 18,
       "draw": 0,
       "pct": ".419",
-      "gb": "5.5",
+      "gb": "-",
       "streak": "",
       "rank": 5
     },
@@ -57,9 +57,99 @@
       "loss": 22,
       "draw": 0,
       "pct": ".313",
-      "gb": "9.0",
+      "gb": "-",
       "streak": "",
       "rank": 6
+    },
+    {
+      "team": "富邦悍將",
+      "win": 5,
+      "loss": 16,
+      "draw": 17,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 7
+    },
+    {
+      "team": "味全龍",
+      "win": 5,
+      "loss": 16,
+      "draw": 17,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 8
+    },
+    {
+      "team": "統一獅",
+      "win": 5,
+      "loss": 17,
+      "draw": 16,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 9
+    },
+    {
+      "team": "味全龍",
+      "win": 5,
+      "loss": 17,
+      "draw": 16,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 10
+    },
+    {
+      "team": "富邦悍將",
+      "win": 5,
+      "loss": 17,
+      "draw": 17,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 11
+    },
+    {
+      "team": "統一獅",
+      "win": 4,
+      "loss": 2,
+      "draw": 7,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 12
+    },
+    {
+      "team": "味全龍",
+      "win": 3,
+      "loss": 0,
+      "draw": 7,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 13
+    },
+    {
+      "team": "富邦悍將",
+      "win": 3,
+      "loss": 0,
+      "draw": 5,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 14
+    },
+    {
+      "team": "統一獅",
+      "win": 0,
+      "loss": 0,
+      "draw": 5,
+      "pct": "",
+      "gb": "-",
+      "streak": "",
+      "rank": 15
     }
   ],
   "recent": []
