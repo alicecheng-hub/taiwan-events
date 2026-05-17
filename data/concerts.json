@@ -1,4 +1,355 @@
 {
-  "updated": "2026-05-17T00:00:00",
-  "concerts": []
+  "updated": "2026-05-17T07:38:30.882604",
+  "concerts": [
+    {
+      "title": "盧廣仲 高雄演唱會 2026",
+      "date": "2026/05/23",
+      "date_end": "2026/04/02",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/03/27",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1348",
+      "platform": "tickettw"
+    },
+    {
+      "title": "EXID 台北演唱會 2026",
+      "date": "2026/05/24",
+      "date_end": "2026/04/18",
+      "venue": "TICC台北國際會議中心",
+      "sale_date": "2026/04/18 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1362",
+      "platform": "IBON"
+    },
+    {
+      "title": "2am 台北演唱會 2026",
+      "date": "2026/05/24",
+      "date_end": "2026/04/10",
+      "venue": "國立臺灣大學綜合體育館",
+      "sale_date": "2026/04/10 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1347",
+      "platform": "IBON"
+    },
+    {
+      "title": "K-SPARK 高雄演唱會 2026",
+      "date": "2026/05/30",
+      "date_end": "2026/05/11",
+      "venue": "高雄國家體育場",
+      "sale_date": "2026/05/11 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1372",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "韋禮安 台北演唱會 2026",
+      "date": "2026/05/30",
+      "date_end": "2026/03/21",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/03/14 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1344",
+      "platform": "IBON"
+    },
+    {
+      "title": "頑童 高雄演唱會 2026",
+      "date": "2026/06/06",
+      "date_end": "2026/04/25",
+      "venue": "高雄巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1357",
+      "platform": "tickettw"
+    },
+    {
+      "title": "IRENE 台北演唱會 2026",
+      "date": "2026/06/06",
+      "date_end": "2026/04/24",
+      "venue": "台大綜合體育館",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1354",
+      "platform": "FRIDAY"
+    },
+    {
+      "title": "孫淑媚 台北演唱會 2026",
+      "date": "2026/06/06",
+      "date_end": "2026/03/28",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/03/08 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1352",
+      "platform": "IBON"
+    },
+    {
+      "title": "CNBLUE 高雄演唱會 2026",
+      "date": "2026/06/13",
+      "date_end": "2026/04/22",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/03/26",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1361",
+      "platform": "tickettw"
+    },
+    {
+      "title": "LUCY 台北演唱會 2026",
+      "date": "2026/06/20",
+      "date_end": "2026/05/09",
+      "venue": "台大綜合體育館",
+      "sale_date": "2026/05/09 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1375",
+      "platform": "IBON"
+    },
+    {
+      "title": "FTISLAND 台北演唱會 2026",
+      "date": "2026/06/20",
+      "date_end": "2026/05/16",
+      "venue": "Legacy TERA",
+      "sale_date": "2026/05/16 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1373",
+      "platform": "IBON"
+    },
+    {
+      "title": "&TEAM 台北演唱會 2026",
+      "date": "2026/06/21",
+      "date_end": "2026/05/09",
+      "venue": "桃園",
+      "sale_date": "2026/05/09 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1364",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "姜育恆 台北演唱會 2026",
+      "date": "2026/06/27",
+      "date_end": "2026/05/10",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/05/10 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1374",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "ITZY 高雄演唱會 2026",
+      "date": "2026/06/27",
+      "date_end": "2026/03/26",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/03/26 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1316",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "五月天 台北演唱會 2026",
+      "date": "2026/07/03",
+      "date_end": "2026/05/23",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/05/23 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1327",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "MAMAMOO 高雄演唱會 2026",
+      "date": "2026/07/04",
+      "date_end": "",
+      "venue": "待公布",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1363",
+      "platform": "tickettw"
+    },
+    {
+      "title": "盧廣仲 台北演唱會 2026",
+      "date": "2026/07/10",
+      "date_end": "2026/04/02",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/03/27",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1345",
+      "platform": "tickettw"
+    },
+    {
+      "title": "NMIXX 高雄演唱會 2026",
+      "date": "2026/07/11",
+      "date_end": "2026/05/14",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/05/14 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1356",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "NCT小分隊 JNJM 高雄見面會 2026",
+      "date": "2026/07/18",
+      "date_end": "2026/05/10",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/05/10 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1369",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "滅火器 台北演唱會 2026",
+      "date": "2026/07/18",
+      "date_end": "2026/04/17",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/04/11 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1359",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "EXO 高雄演唱會 2026",
+      "date": "2026/07/18",
+      "date_end": "2026/05/13",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/04/03 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1338",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "SEVENTEEN小分隊DxS 高雄演唱會 2026",
+      "date": "2026/07/24",
+      "date_end": "2026/05/10",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/05/10 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1367",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "落日飛車 高雄演唱會 2026",
+      "date": "2026/08/08",
+      "date_end": "2026/04/17",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/04/08 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1360",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "aespa 台北演唱會 2026",
+      "date": "2026/08/11",
+      "date_end": "2026/05/17",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/05/17 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1365",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "八三夭 台北演唱會 2026",
+      "date": "2026/08/15",
+      "date_end": "2026/06/06",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/06/06 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1377",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "back number 台北演唱會 2026",
+      "date": "2026/08/22",
+      "date_end": "2026/05/07",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/05/07 TICKET PLUS",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1349",
+      "platform": "TICKET PLUS"
+    },
+    {
+      "title": "游鴻明 高雄演唱會 2026",
+      "date": "2026/08/22",
+      "date_end": "2026/04/02",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/04/02 寬宏",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1358",
+      "platform": "寬宏"
+    },
+    {
+      "title": "IVE 台北演唱會 2026",
+      "date": "2026/09/11",
+      "date_end": "2026/04/08",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/04/03 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1355",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "蔡琴 台北演唱會 2026",
+      "date": "2026/09/12",
+      "date_end": "2026/05/15",
+      "venue": "TICC台北國際會議中心",
+      "sale_date": "2026/04/26 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1368",
+      "platform": "IBON"
+    },
+    {
+      "title": "李泳知 台北演唱會 2026",
+      "date": "2026/09/19",
+      "date_end": "2026/05/06",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/05/06 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1371",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "XG 台北演唱會 2026",
+      "date": "2026/10/17",
+      "date_end": "2026/04/30",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/04/30 寬宏",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1366",
+      "platform": "寬宏"
+    },
+    {
+      "title": "Vaundy 台北演唱會 2026",
+      "date": "2026/10/31",
+      "date_end": "2026/05/13",
+      "venue": "台北小巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1342",
+      "platform": "tickettw"
+    },
+    {
+      "title": "Jason Mraz 傑森瑪耶茲 台北演唱會 2026",
+      "date": "2026/11/02",
+      "date_end": "2026/05/30",
+      "venue": "台北南港展覽館",
+      "sale_date": "2026/05/30",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1370",
+      "platform": "tickettw"
+    },
+    {
+      "title": "BTS 防彈少年團 高雄演唱會 2026",
+      "date": "2026/11/19",
+      "date_end": "",
+      "venue": "待公布",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1319",
+      "platform": "tickettw"
+    },
+    {
+      "title": "BABYMONSTER 台北演唱會 2026",
+      "date": "2026/11/21",
+      "date_end": "",
+      "venue": "台北小巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1376",
+      "platform": "tickettw"
+    }
+  ]
 }
