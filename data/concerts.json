@@ -1,24 +1,6 @@
 {
-  "updated": "2026-05-16T23:20:06.638381",
+  "updated": "2026-05-17T02:31:33.607759",
   "concerts": [
-    {
-      "title": "YOASOBI 台灣演唱會 2026",
-      "date": "2026/05/16",
-      "venue": "台北大巨蛋",
-      "sale_date": "待公布",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1323",
-      "platform": "tickettw"
-    },
-    {
-      "title": "告五人 台北演唱會 2026",
-      "date": "2026/05/16",
-      "venue": "Zepp New Taipei",
-      "sale_date": "2026/03/28 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1351",
-      "platform": "TIXCRAFT"
-    },
     {
       "title": "盧廣仲 高雄演唱會 2026",
       "date": "2026/05/23",
