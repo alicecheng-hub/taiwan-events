@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T16:52:15.938532",
+  "updated": "2026-05-18T02:41:49.038357",
   "standings": [
     {
       "team": "味全龍",
@@ -62,5 +62,27 @@
       "rank": 6
     }
   ],
-  "recent": []
+  "recent": [
+    {
+      "date": "2026/05/17",
+      "away": "中信兄弟",
+      "away_score": 3,
+      "home": "統一獅",
+      "home_score": 4
+    },
+    {
+      "date": "2026/05/17",
+      "away": "樂天桃猿",
+      "away_score": 0,
+      "home": "味全龍",
+      "home_score": 2
+    },
+    {
+      "date": "2026/05/17",
+      "away": "台鋼雄鷹",
+      "away_score": 6,
+      "home": "富邦悍將",
+      "home_score": 5
+    }
+  ]
 }
