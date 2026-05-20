@@ -1,66 +1,74 @@
 {
-  "updated": "2026-05-20T02:40:00.183292",
+  "updated": "2026-05-20T11:59:57.720987",
   "standings": [
     {
       "rank": 1,
       "team": "味全龍",
-      "win": 20,
+      "win": 22,
       "draw": 0,
       "loss": 13,
-      "pct": ".606",
+      "pct": ".629",
       "gb": "-",
-      "streak": "W2"
+      "streak": "W4"
     },
     {
       "rank": 2,
       "team": "富邦悍將",
       "win": 18,
       "draw": 0,
-      "loss": 13,
-      "pct": ".581",
-      "gb": "1.0",
-      "streak": "W5"
+      "loss": 14,
+      "pct": ".563",
+      "gb": "2.5",
+      "streak": "L1"
     },
     {
       "rank": 3,
       "team": "統一獅",
-      "win": 17,
+      "win": 18,
       "draw": 1,
       "loss": 15,
-      "pct": ".531",
-      "gb": "2.5",
-      "streak": "L2"
+      "pct": ".545",
+      "gb": "3.0",
+      "streak": "W1"
     },
     {
       "rank": 4,
       "team": "台鋼雄鷹",
-      "win": 17,
+      "win": 18,
       "draw": 1,
-      "loss": 16,
-      "pct": ".515",
-      "gb": "3.0",
-      "streak": "L2"
+      "loss": 17,
+      "pct": ".514",
+      "gb": "4.0",
+      "streak": "L1"
     },
     {
       "rank": 5,
       "team": "樂天桃猿",
       "win": 13,
       "draw": 1,
-      "loss": 18,
-      "pct": ".419",
-      "gb": "6.0",
-      "streak": "L3"
+      "loss": 19,
+      "pct": ".406",
+      "gb": "7.5",
+      "streak": "L4"
     },
     {
       "rank": 6,
       "team": "中信兄弟",
       "win": 11,
       "draw": 1,
-      "loss": 21,
-      "pct": ".344",
-      "gb": "8.5",
-      "streak": "W2"
+      "loss": 22,
+      "pct": ".333",
+      "gb": "10.0",
+      "streak": "L1"
     }
   ],
-  "recent": []
+  "recent": [
+    {
+      "date": "2026/05/20",
+      "away": "台鋼雄鷹",
+      "away_score": 0,
+      "home": "味全龍",
+      "home_score": 2
+    }
+  ]
 }
