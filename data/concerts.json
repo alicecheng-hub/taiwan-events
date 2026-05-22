@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T02:42:24.280822",
+  "updated": "2026-05-22T01:58:35.150041",
   "concerts": [
     {
       "title": "盧廣仲 高雄演唱會 2026",
@@ -210,6 +210,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1338",
       "platform": "TIXCRAFT"
+    },
+    {
+      "title": "iKON 台北演唱會 2026",
+      "date": "2026/07/18",
+      "venue": "台北流行音樂中心",
+      "sale_date": "2026/05/29 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1378",
+      "platform": "KKTIX"
     },
     {
       "title": "SEVENTEEN小分隊DxS 高雄演唱會 2026",
