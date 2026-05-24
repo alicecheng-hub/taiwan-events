@@ -1,16 +1,6 @@
 {
-  "updated": "2026-05-23T02:28:38.687857",
+  "updated": "2026-05-24T02:38:49.692854",
   "concerts": [
-    {
-      "title": "盧廣仲 高雄演唱會 2026",
-      "date": "2026/05/23",
-      "date_end": "2026/04/02",
-      "venue": "高雄流行音樂中心海音館",
-      "sale_date": "2026/03/27",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1348",
-      "platform": "tickettw"
-    },
     {
       "title": "EXID 台北演唱會 2026",
       "date": "2026/05/24",
