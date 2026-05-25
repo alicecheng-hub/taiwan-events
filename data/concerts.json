@@ -1,26 +1,6 @@
 {
-  "updated": "2026-05-24T02:38:49.692854",
+  "updated": "2026-05-25T02:47:51.689013",
   "concerts": [
-    {
-      "title": "EXID 台北演唱會 2026",
-      "date": "2026/05/24",
-      "date_end": "2026/04/18",
-      "venue": "TICC台北國際會議中心",
-      "sale_date": "2026/04/18 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1362",
-      "platform": "IBON"
-    },
-    {
-      "title": "2am 台北演唱會 2026",
-      "date": "2026/05/24",
-      "date_end": "2026/04/10",
-      "venue": "國立臺灣大學綜合體育館",
-      "sale_date": "2026/04/10 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1347",
-      "platform": "IBON"
-    },
     {
       "title": "K-SPARK 高雄演唱會 2026",
       "date": "2026/05/30",
