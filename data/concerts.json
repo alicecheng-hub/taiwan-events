@@ -1,26 +1,6 @@
 {
-  "updated": "2026-05-30T02:31:36.477441",
+  "updated": "2026-05-31T02:48:26.861326",
   "concerts": [
-    {
-      "title": "K-SPARK 高雄演唱會 2026",
-      "date": "2026/05/30",
-      "date_end": "2026/05/11",
-      "venue": "高雄國家體育場",
-      "sale_date": "2026/05/11 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1372",
-      "platform": "KKTIX"
-    },
-    {
-      "title": "韋禮安 台北演唱會 2026",
-      "date": "2026/05/30",
-      "date_end": "2026/03/21",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/03/14 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1344",
-      "platform": "IBON"
-    },
     {
       "title": "頑童 高雄演唱會 2026",
       "date": "2026/06/06",
