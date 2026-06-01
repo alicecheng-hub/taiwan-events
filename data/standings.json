@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T02:57:00.360647",
+  "updated": "2026-06-01T10:21:07.671903",
   "standings": [
     {
       "rank": 1,
@@ -83,6 +83,13 @@
       "away_score": 0,
       "home": "台鋼雄鷹",
       "home_score": 2
+    },
+    {
+      "date": "2026/05/23",
+      "away": "統一獅",
+      "away_score": 4,
+      "home": "味全龍",
+      "home_score": 1
     }
   ]
 }
