@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T02:55:34.074201",
+  "updated": "2026-06-12T02:52:45.684223",
   "concerts": [
     {
       "title": "CNBLUE 高雄演唱會 2026",
@@ -231,6 +231,15 @@
       "platform": "TIXCRAFT"
     },
     {
+      "title": "BIGBANG 台北演唱會 2026",
+      "date": "2026/10/10",
+      "venue": "台北大巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1380",
+      "platform": "tickettw"
+    },
+    {
       "title": "XG 台北演唱會 2026",
       "date": "2026/10/17",
       "date_end": "2026/04/30",
@@ -287,6 +296,15 @@
       "sale_date": "待公布",
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1376",
+      "platform": "tickettw"
+    },
+    {
+      "title": "BIGBANG 高雄演唱會 2027",
+      "date": "2027/02/27",
+      "venue": "高雄世運主場館",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1381",
       "platform": "tickettw"
     }
   ]
