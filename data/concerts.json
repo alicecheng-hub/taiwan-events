@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T02:52:45.684223",
+  "updated": "2026-06-13T02:45:02.070702",
   "concerts": [
     {
       "title": "CNBLUE 高雄演唱會 2026",
@@ -229,6 +229,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1371",
       "platform": "TIXCRAFT"
+    },
+    {
+      "title": "蕭煌奇 台北演唱會 2026",
+      "date": "2026/09/19",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/06/17",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1383",
+      "platform": "tickettw"
     },
     {
       "title": "BIGBANG 台北演唱會 2026",
