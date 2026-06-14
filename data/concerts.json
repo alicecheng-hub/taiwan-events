@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-13T02:45:02.070702",
+  "updated": "2026-06-14T02:56:39.393740",
   "concerts": [
-    {
-      "title": "CNBLUE 高雄演唱會 2026",
-      "date": "2026/06/13",
-      "date_end": "2026/04/22",
-      "venue": "高雄流行音樂中心海音館",
-      "sale_date": "2026/03/26",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1361",
-      "platform": "tickettw"
-    },
     {
       "title": "LUCY 台北演唱會 2026",
       "date": "2026/06/20",
