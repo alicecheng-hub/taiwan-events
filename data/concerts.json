@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T03:26:37.991740",
+  "updated": "2026-06-17T02:58:54.092011",
   "concerts": [
     {
       "title": "LUCY 台北演唱會 2026",
@@ -198,6 +198,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1384",
       "platform": "IBON"
+    },
+    {
+      "title": "w-inds 高雄演唱會 2026",
+      "date": "2026/09/05",
+      "venue": "高雄流行音樂中心",
+      "sale_date": "2026/06/24",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1386",
+      "platform": "tickettw"
     },
     {
       "title": "IVE 台北演唱會 2026",
