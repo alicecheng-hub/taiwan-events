@@ -1,26 +1,6 @@
 {
-  "updated": "2026-06-20T02:43:59.101055",
+  "updated": "2026-06-21T03:25:12.506165",
   "concerts": [
-    {
-      "title": "LUCY 台北演唱會 2026",
-      "date": "2026/06/20",
-      "date_end": "2026/05/09",
-      "venue": "台大綜合體育館",
-      "sale_date": "2026/05/09 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1375",
-      "platform": "IBON"
-    },
-    {
-      "title": "FTISLAND 台北演唱會 2026",
-      "date": "2026/06/20",
-      "date_end": "2026/05/16",
-      "venue": "Legacy TERA",
-      "sale_date": "2026/05/16 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1373",
-      "platform": "IBON"
-    },
     {
       "title": "&TEAM 台北演唱會 2026",
       "date": "2026/06/21",
