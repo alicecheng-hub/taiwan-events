@@ -1,16 +1,6 @@
 {
-  "updated": "2026-06-21T03:25:12.506165",
+  "updated": "2026-06-22T03:31:02.800910",
   "concerts": [
-    {
-      "title": "&TEAM 台北演唱會 2026",
-      "date": "2026/06/21",
-      "date_end": "2026/05/09",
-      "venue": "桃園",
-      "sale_date": "2026/05/09 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1364",
-      "platform": "KKTIX"
-    },
     {
       "title": "姜育恆 台北演唱會 2026",
       "date": "2026/06/27",
