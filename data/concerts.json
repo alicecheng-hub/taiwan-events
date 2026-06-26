@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T02:39:23.318149",
+  "updated": "2026-06-26T02:42:46.709008",
   "concerts": [
     {
       "title": "姜育恆 台北演唱會 2026",
@@ -225,6 +225,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1383",
       "platform": "tickettw"
+    },
+    {
+      "title": "江美琪 台北演唱會 2026",
+      "date": "2026/10/03",
+      "venue": "Zepp New Taipei",
+      "sale_date": "2026/07/10 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1390",
+      "platform": "IBON"
     },
     {
       "title": "YUURI 優里 台北演唱會 2026",
