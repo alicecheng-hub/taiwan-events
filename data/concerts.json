@@ -1,26 +1,6 @@
 {
-  "updated": "2026-06-27T02:34:38.489509",
+  "updated": "2026-06-28T02:48:11.956017",
   "concerts": [
-    {
-      "title": "姜育恆 台北演唱會 2026",
-      "date": "2026/06/27",
-      "date_end": "2026/05/10",
-      "venue": "高雄流行音樂中心海音館",
-      "sale_date": "2026/05/10 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1374",
-      "platform": "KKTIX"
-    },
-    {
-      "title": "ITZY 高雄演唱會 2026",
-      "date": "2026/06/27",
-      "date_end": "2026/03/26",
-      "venue": "高雄巨蛋",
-      "sale_date": "2026/03/26 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1316",
-      "platform": "TIXCRAFT"
-    },
     {
       "title": "五月天 台北演唱會 2026",
       "date": "2026/07/03",
@@ -177,6 +157,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1386",
       "platform": "tickettw"
+    },
+    {
+      "title": "Tyson Yoshi 台北演唱會 2026",
+      "date": "2026/09/05",
+      "venue": "Zepp New Taipei",
+      "sale_date": "2026/07/03 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1393",
+      "platform": "KKTIX"
     },
     {
       "title": "IVE 台北演唱會 2026",
