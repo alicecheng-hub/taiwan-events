@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T02:48:11.956017",
+  "updated": "2026-06-29T02:48:40.212426",
   "concerts": [
     {
       "title": "五月天 台北演唱會 2026",
@@ -166,6 +166,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1393",
       "platform": "KKTIX"
+    },
+    {
+      "title": "ITZY 台北演唱會 2026",
+      "date": "2026/09/05",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/07/08 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1382",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "IVE 台北演唱會 2026",
