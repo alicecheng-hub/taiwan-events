@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T02:48:40.212426",
+  "updated": "2026-06-30T02:44:27.940498",
   "concerts": [
     {
       "title": "五月天 台北演唱會 2026",
@@ -278,6 +278,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1379",
       "platform": "KKTIX"
+    },
+    {
+      "title": "TWS 高雄演唱會 2026",
+      "date": "2026/10/24",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/07/19 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1394",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "Vaundy 台北演唱會 2026",
