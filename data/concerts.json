@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T02:38:39.779190",
+  "updated": "2026-07-03T02:13:57.234558",
   "concerts": [
     {
       "title": "五月天 台北演唱會 2026",
@@ -139,6 +139,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1358",
       "platform": "寬宏"
+    },
+    {
+      "title": "TOP 台北演唱會 2026",
+      "date": "2026/08/22",
+      "venue": "林口體育館",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1395",
+      "platform": "tickettw"
     },
     {
       "title": "閻奕格 台北演唱會 2026",
@@ -344,6 +353,15 @@
       "sale_date": "待公布",
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1389",
+      "platform": "tickettw"
+    },
+    {
+      "title": "TOP 高雄演唱會 2026",
+      "date": "2026/12/19",
+      "venue": "高雄巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1396",
       "platform": "tickettw"
     },
     {
