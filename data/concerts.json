@@ -1,16 +1,6 @@
 {
-  "updated": "2026-07-03T02:13:57.234558",
+  "updated": "2026-07-04T02:12:08.381656",
   "concerts": [
-    {
-      "title": "五月天 台北演唱會 2026",
-      "date": "2026/07/03",
-      "date_end": "2026/05/23",
-      "venue": "台北大巨蛋",
-      "sale_date": "2026/05/23 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1327",
-      "platform": "TIXCRAFT"
-    },
     {
       "title": "MAMAMOO 高雄演唱會 2026",
       "date": "2026/07/04",
