@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T02:02:14.924957",
+  "updated": "2026-07-09T02:14:23.965404",
   "concerts": [
     {
       "title": "盧廣仲 台北演唱會 2026",
@@ -164,6 +164,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1382",
       "platform": "TIXCRAFT"
+    },
+    {
+      "title": "HER VOICE 高雄演唱會 2026",
+      "date": "2026/09/05",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/07/16",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1398",
+      "platform": "tickettw"
     },
     {
       "title": "IVE 台北演唱會 2026",
