@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T02:14:23.965404",
+  "updated": "2026-07-10T02:14:24.775118",
   "concerts": [
     {
       "title": "盧廣仲 台北演唱會 2026",
@@ -230,6 +230,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1383",
       "platform": "tickettw"
+    },
+    {
+      "title": "TREASURE 高雄演唱會 2026",
+      "date": "2026/09/26",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/07/19 TICKET PLUS",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1399",
+      "platform": "TICKET PLUS"
     },
     {
       "title": "江美琪 台北演唱會 2026",
