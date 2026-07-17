@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T01:58:06.960406",
+  "updated": "2026-07-17T02:01:56.226249",
   "concerts": [
     {
       "title": "NCT小分隊 JNJM 高雄見面會 2026",
@@ -341,6 +341,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1396",
       "platform": "tickettw"
+    },
+    {
+      "title": "BOYNEXTDOOR 台北演唱會 2026",
+      "date": "2027/01/09",
+      "venue": "林口體育館",
+      "sale_date": "2026/07/26 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1401",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "BIGBANG 高雄演唱會 2027",
