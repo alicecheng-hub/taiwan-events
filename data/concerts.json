@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:01:56.226249",
+  "updated": "2026-07-18T01:50:58.081391",
   "concerts": [
     {
       "title": "NCT小分隊 JNJM 高雄見面會 2026",
@@ -264,6 +264,15 @@
       "sale_date": "2026/06/06 KKTIX",
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1379",
+      "platform": "KKTIX"
+    },
+    {
+      "title": "蔡健雅 高雄演唱會 2026",
+      "date": "2026/10/17",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/08/03 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1402",
       "platform": "KKTIX"
     },
     {
