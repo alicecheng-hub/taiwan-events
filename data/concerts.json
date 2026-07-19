@@ -1,45 +1,6 @@
 {
-  "updated": "2026-07-18T01:50:58.081391",
+  "updated": "2026-07-19T02:01:30.834127",
   "concerts": [
-    {
-      "title": "NCT小分隊 JNJM 高雄見面會 2026",
-      "date": "2026/07/18",
-      "date_end": "2026/05/10",
-      "venue": "高雄流行音樂中心海音館",
-      "sale_date": "2026/05/10 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1369",
-      "platform": "TIXCRAFT"
-    },
-    {
-      "title": "滅火器 台北演唱會 2026",
-      "date": "2026/07/18",
-      "date_end": "2026/04/17",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/04/11 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1359",
-      "platform": "KKTIX"
-    },
-    {
-      "title": "EXO 高雄演唱會 2026",
-      "date": "2026/07/18",
-      "date_end": "2026/05/13",
-      "venue": "高雄巨蛋",
-      "sale_date": "2026/04/03 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1338",
-      "platform": "TIXCRAFT"
-    },
-    {
-      "title": "iKON 台北演唱會 2026",
-      "date": "2026/07/18",
-      "venue": "台北流行音樂中心",
-      "sale_date": "2026/05/29 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1378",
-      "platform": "KKTIX"
-    },
     {
       "title": "SEVENTEEN小分隊DxS 高雄演唱會 2026",
       "date": "2026/07/24",
