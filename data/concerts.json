@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T02:01:30.834127",
+  "updated": "2026-07-20T03:27:18.893988",
   "concerts": [
     {
       "title": "SEVENTEEN小分隊DxS 高雄演唱會 2026",
@@ -302,6 +302,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1389",
       "platform": "tickettw"
+    },
+    {
+      "title": "滅火器 高雄演唱會 2026",
+      "date": "2026/12/12",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/07/31 KKTIX",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1403",
+      "platform": "KKTIX"
     },
     {
       "title": "TOP 高雄演唱會 2026",
