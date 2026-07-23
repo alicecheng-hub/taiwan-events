@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T01:58:58.321179",
+  "updated": "2026-07-23T02:06:34.020973",
   "concerts": [
     {
       "title": "SEVENTEEN小分隊DxS 高雄演唱會 2026",
@@ -273,6 +273,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1385",
       "platform": "tickettw"
+    },
+    {
+      "title": "LE SSERAFIM 台北演唱會 2026",
+      "date": "2026/11/14",
+      "venue": "國立體育大學綜合體育館",
+      "sale_date": "2026/09/06 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1404",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "BTS 防彈少年團 高雄演唱會 2026",
