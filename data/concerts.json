@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T01:52:45.011483",
+  "updated": "2026-08-05T01:53:02.460128",
   "concerts": [
     {
       "title": "落日飛車 高雄演唱會 2026",
@@ -327,6 +327,15 @@
       "sale_date": "2026/07/26 TIXCRAFT",
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1401",
+      "platform": "TIXCRAFT"
+    },
+    {
+      "title": "魔力紅 Maroon 5 高雄演唱會 2026",
+      "date": "2027/01/24",
+      "venue": "高雄世運主場館",
+      "sale_date": "2026/08/12 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1405",
       "platform": "TIXCRAFT"
     },
     {
