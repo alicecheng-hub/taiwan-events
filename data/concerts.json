@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T00:53:06.858171",
+  "updated": "2026-08-17T00:51:18.254324",
   "concerts": [
     {
       "title": "back number 台北演唱會 2026",
@@ -224,6 +224,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1370",
       "platform": "tickettw"
+    },
+    {
+      "title": "2026 FNC BAND KINGDOM IN TAIPEI",
+      "date": "2026/11/07",
+      "venue": "林口體育館",
+      "sale_date": "2026/08/29",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1406",
+      "platform": "FRIDAY"
     },
     {
       "title": "木村拓哉 台北演唱會 2026",
