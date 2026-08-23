@@ -1,35 +1,6 @@
 {
-  "updated": "2026-08-22T00:50:17.216006",
+  "updated": "2026-08-23T00:53:55.939705",
   "concerts": [
-    {
-      "title": "back number 台北演唱會 2026",
-      "date": "2026/08/22",
-      "date_end": "2026/05/07",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/05/07 TICKET PLUS",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1349",
-      "platform": "TICKET PLUS"
-    },
-    {
-      "title": "游鴻明 高雄演唱會 2026",
-      "date": "2026/08/22",
-      "date_end": "2026/04/02",
-      "venue": "高雄巨蛋",
-      "sale_date": "2026/04/02 寬宏",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1358",
-      "platform": "寬宏"
-    },
-    {
-      "title": "TOP 台北演唱會 2026",
-      "date": "2026/08/22",
-      "venue": "林口體育館",
-      "sale_date": "2026/07/24 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1395",
-      "platform": "tickettw"
-    },
     {
       "title": "閻奕格 台北演唱會 2026",
       "date": "2026/08/23",
