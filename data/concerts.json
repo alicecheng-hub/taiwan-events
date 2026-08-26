@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T00:52:05.468542",
+  "updated": "2026-08-26T00:53:00.035772",
   "concerts": [
     {
       "title": "w-inds 高雄演唱會 2026",
@@ -195,6 +195,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1406",
       "platform": "FRIDAY"
+    },
+    {
+      "title": "告五人 台北演唱會 2026",
+      "date": "2026/11/07",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/09/13 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1407",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "木村拓哉 台北演唱會 2026",
