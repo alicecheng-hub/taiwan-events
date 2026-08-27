@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T00:53:00.035772",
+  "updated": "2026-08-27T06:34:10.523253",
   "concerts": [
     {
       "title": "w-inds 高雄演唱會 2026",
@@ -296,6 +296,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1381",
       "platform": "tickettw"
+    },
+    {
+      "title": "火星人布魯諾 Bruno Mars 高雄演唱會 2026",
+      "date": "2027/05/01",
+      "venue": "高雄世運主場館",
+      "sale_date": "2026/09/14 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1408",
+      "platform": "TIXCRAFT"
     }
   ]
 }
