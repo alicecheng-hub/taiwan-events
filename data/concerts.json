@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T06:34:10.523253",
+  "updated": "2026-08-28T08:24:14.520247",
   "concerts": [
     {
       "title": "w-inds 高雄演唱會 2026",
@@ -157,6 +157,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1402",
       "platform": "KKTIX"
+    },
+    {
+      "title": "T-ARA Fancon 2026 in Taiwan",
+      "date": "2026/10/18",
+      "venue": "高雄流行音樂中心",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1409",
+      "platform": "tickettw"
     },
     {
       "title": "TWS 高雄演唱會 2026",
