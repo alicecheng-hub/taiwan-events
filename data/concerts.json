@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T02:48:47.773917",
+  "updated": "2026-09-01T02:58:36.129606",
   "concerts": [
     {
       "title": "w-inds 高雄演唱會 2026",
@@ -287,6 +287,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1401",
       "platform": "TIXCRAFT"
+    },
+    {
+      "title": "YOASOBI 台北演唱會 2027",
+      "date": "2027/01/09",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/09/17",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1323",
+      "platform": "tickettw"
     },
     {
       "title": "魔力紅 Maroon 5 高雄演唱會 2026",
