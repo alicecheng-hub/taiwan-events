@@ -1,34 +1,6 @@
 {
-  "updated": "2026-09-12T02:32:22.925717",
+  "updated": "2026-09-13T02:31:29.739139",
   "concerts": [
-    {
-      "title": "蔡琴 台北演唱會 2026",
-      "date": "2026/09/12",
-      "date_end": "2026/05/15",
-      "venue": "TICC台北國際會議中心",
-      "sale_date": "2026/04/26 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1368",
-      "platform": "IBON"
-    },
-    {
-      "title": "FTISLAND 高雄演唱會 2026",
-      "date": "2026/09/12",
-      "venue": "高雄流行音樂中心",
-      "sale_date": "2026/06/27 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1388",
-      "platform": "IBON"
-    },
-    {
-      "title": "劉若英 高雄演唱會 2026",
-      "date": "2026/09/12",
-      "venue": "高雄巨蛋",
-      "sale_date": "2026/07/18 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1391",
-      "platform": "TIXCRAFT"
-    },
     {
       "title": "李泳知 台北演唱會 2026",
       "date": "2026/09/19",
