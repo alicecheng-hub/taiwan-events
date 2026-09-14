@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:31:29.739139",
+  "updated": "2026-09-14T02:47:34.317356",
   "concerts": [
     {
       "title": "李泳知 台北演唱會 2026",
@@ -185,6 +185,15 @@
       "sale_date": "待公布",
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1376",
+      "platform": "tickettw"
+    },
+    {
+      "title": "劉若英 台北演唱會 2026",
+      "date": "2026/12/05",
+      "venue": "台北小巨蛋",
+      "sale_date": "待公布",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1411",
       "platform": "tickettw"
     },
     {
