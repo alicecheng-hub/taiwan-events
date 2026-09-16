@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T02:50:23.640616",
+  "updated": "2026-09-16T02:45:35.459492",
   "concerts": [
     {
       "title": "李泳知 台北演唱會 2026",
@@ -186,6 +186,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1376",
       "platform": "tickettw"
+    },
+    {
+      "title": "MAMAMOO 台北演唱會 2026",
+      "date": "2026/11/28",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/09/26 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1412",
+      "platform": "IBON"
     },
     {
       "title": "劉若英 台北演唱會 2026",
