@@ -1,25 +1,6 @@
 {
-  "updated": "2026-09-19T02:35:17.915743",
+  "updated": "2026-09-20T02:47:00.954225",
   "concerts": [
-    {
-      "title": "李泳知 台北演唱會 2026",
-      "date": "2026/09/19",
-      "date_end": "2026/05/06",
-      "venue": "高雄流行音樂中心海音館",
-      "sale_date": "2026/05/06 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1371",
-      "platform": "TIXCRAFT"
-    },
-    {
-      "title": "蕭煌奇 台北演唱會 2026",
-      "date": "2026/09/19",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/06/17 寬宏",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1383",
-      "platform": "tickettw"
-    },
     {
       "title": "TREASURE 高雄演唱會 2026",
       "date": "2026/09/26",
