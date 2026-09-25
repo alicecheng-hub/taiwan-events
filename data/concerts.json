@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:35:07.363884",
+  "updated": "2026-09-25T02:52:30.819513",
   "concerts": [
     {
       "title": "TREASURE 高雄演唱會 2026",
@@ -176,6 +176,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1412",
       "platform": "IBON"
+    },
+    {
+      "title": "F FOREVER 台北演唱會 2026",
+      "date": "2026/11/28",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/10/04 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1413",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "劉若英 台北演唱會 2026",
