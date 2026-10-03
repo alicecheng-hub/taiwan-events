@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T03:30:13.908970",
+  "updated": "2026-10-03T03:14:30.312489",
   "concerts": [
     {
       "title": "江美琪 台北演唱會 2026",
@@ -203,6 +203,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1403",
       "platform": "KKTIX"
+    },
+    {
+      "title": "田馥甄 台北演唱會 2026",
+      "date": "2026/12/12",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/10/06",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1414",
+      "platform": "tickettw"
     },
     {
       "title": "TOP 高雄演唱會 2026",
