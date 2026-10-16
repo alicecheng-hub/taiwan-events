@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T02:40:52.693642",
+  "updated": "2026-10-16T02:36:36.776747",
   "concerts": [
     {
       "title": "XG 台北演唱會 2026",
@@ -193,6 +193,15 @@
       "sale_date": "待公布",
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1396",
+      "platform": "tickettw"
+    },
+    {
+      "title": "米津玄師 台北演唱會 2026",
+      "date": "2026/12/26",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/10/29",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1415",
       "platform": "tickettw"
     },
     {
