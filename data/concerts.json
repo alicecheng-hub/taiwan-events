@@ -1,34 +1,6 @@
 {
-  "updated": "2026-10-17T02:29:06.184199",
+  "updated": "2026-10-18T02:29:15.147886",
   "concerts": [
-    {
-      "title": "XG 台北演唱會 2026",
-      "date": "2026/10/17",
-      "date_end": "2026/04/30",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/04/30 寬宏",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1366",
-      "platform": "寬宏"
-    },
-    {
-      "title": "理想混蛋 高雄演唱會 2026",
-      "date": "2026/10/17",
-      "venue": "高雄巨蛋",
-      "sale_date": "2026/06/06 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1379",
-      "platform": "KKTIX"
-    },
-    {
-      "title": "蔡健雅 高雄演唱會 2026",
-      "date": "2026/10/17",
-      "venue": "高雄流行音樂中心海音館",
-      "sale_date": "2026/08/03 KKTIX",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1402",
-      "platform": "KKTIX"
-    },
     {
       "title": "T-ARA Fancon 2026 in Taiwan",
       "date": "2026/10/18",
