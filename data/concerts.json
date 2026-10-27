@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T02:38:08.133032",
+  "updated": "2026-10-27T03:12:49.583850",
   "concerts": [
     {
       "title": "Vaundy 台北演唱會 2026",
@@ -175,6 +175,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1323",
       "platform": "tickettw"
+    },
+    {
+      "title": "草蜢 台北演唱會 2027",
+      "date": "2027/01/16",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/11/06",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1416",
+      "platform": "KKTIX"
     },
     {
       "title": "魔力紅 Maroon 5 高雄演唱會 2026",
