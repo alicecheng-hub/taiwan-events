@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T03:27:08.649128",
+  "updated": "2026-10-29T03:49:44.935272",
   "concerts": [
     {
       "title": "Vaundy 台北演唱會 2026",
@@ -157,6 +157,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1415",
       "platform": "tickettw"
+    },
+    {
+      "title": "張偉健 蘇永康 高雄演唱會 2026",
+      "date": "2026/12/27",
+      "venue": "高雄流行音樂中心海音館",
+      "sale_date": "2026/11/08 IBON",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1418",
+      "platform": "IBON"
     },
     {
       "title": "BOYNEXTDOOR 台北演唱會 2026",
