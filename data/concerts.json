@@ -1,16 +1,6 @@
 {
-  "updated": "2026-10-31T03:36:26.788538",
+  "updated": "2026-11-01T03:42:06.409143",
   "concerts": [
-    {
-      "title": "Vaundy 台北演唱會 2026",
-      "date": "2026/10/31",
-      "date_end": "2026/05/13",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/05/23",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1342",
-      "platform": "tickettw"
-    },
     {
       "title": "Jason Mraz 傑森瑪耶茲 台北演唱會 2026",
       "date": "2026/11/02",
