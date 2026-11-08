@@ -1,24 +1,6 @@
 {
-  "updated": "2026-11-07T04:00:18.624059",
+  "updated": "2026-11-08T03:46:21.841559",
   "concerts": [
-    {
-      "title": "2026 FNC BAND KINGDOM IN TAIPEI",
-      "date": "2026/11/07",
-      "venue": "林口體育館",
-      "sale_date": "2026/08/29",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1406",
-      "platform": "FRIDAY"
-    },
-    {
-      "title": "告五人 台北演唱會 2026",
-      "date": "2026/11/07",
-      "venue": "台北小巨蛋",
-      "sale_date": "2026/09/13 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1407",
-      "platform": "TIXCRAFT"
-    },
     {
       "title": "徐暐翔 台北演唱會 2026",
       "date": "2026/11/08",
