@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T04:03:21.209981",
+  "updated": "2026-11-12T05:15:19.150218",
   "concerts": [
     {
       "title": "木村拓哉 台北演唱會 2026",
@@ -148,6 +148,15 @@
       "platform": "tickettw"
     },
     {
+      "title": "告五人 高雄演唱會 2027",
+      "date": "2027/01/09",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/11/14 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1421",
+      "platform": "TIXCRAFT"
+    },
+    {
       "title": "草蜢 台北演唱會 2027",
       "date": "2027/01/16",
       "venue": "台北小巨蛋",
@@ -173,6 +182,24 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1381",
       "platform": "tickettw"
+    },
+    {
+      "title": "周蕙 高雄演唱會 2027",
+      "date": "2027/02/27",
+      "venue": "高雄巨蛋",
+      "sale_date": "2026/11/16",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1422",
+      "platform": "tickettw"
+    },
+    {
+      "title": "張震嶽 台灣演唱會 2027",
+      "date": "2027/04/17",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/11/21 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1420",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "火星人布魯諾 Bruno Mars 高雄演唱會 2026",
