@@ -1,24 +1,6 @@
 {
-  "updated": "2026-11-14T04:26:56.861944",
+  "updated": "2026-11-15T04:12:14.340366",
   "concerts": [
-    {
-      "title": "LE SSERAFIM 台北演唱會 2026",
-      "date": "2026/11/14",
-      "venue": "國立體育大學綜合體育館",
-      "sale_date": "2026/09/06 TIXCRAFT",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1404",
-      "platform": "TIXCRAFT"
-    },
-    {
-      "title": "FTISLAND 台北演唱會 2027",
-      "date": "2026/11/14",
-      "venue": "TICC",
-      "sale_date": "2026/11/14 IBON",
-      "sold_out": false,
-      "url": "https://www.tickettw.com/concert-ticket/1419",
-      "platform": "IBON"
-    },
     {
       "title": "BTS 防彈少年團 高雄演唱會 2026",
       "date": "2026/11/19",
