@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:12:07.745886",
+  "updated": "2026-11-21T05:04:42.367844",
   "concerts": [
     {
       "title": "BABYMONSTER 台北演唱會 2026",
@@ -127,6 +127,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1416",
       "platform": "KKTIX"
+    },
+    {
+      "title": "蔡依林 台北演唱會 2027",
+      "date": "2027/01/22",
+      "venue": "台北大巨蛋",
+      "sale_date": "2026/12/14",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1423",
+      "platform": "tickettw"
     },
     {
       "title": "魔力紅 Maroon 5 高雄演唱會 2026",
