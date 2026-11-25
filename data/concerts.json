@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:52:36.824815",
+  "updated": "2026-11-25T06:26:05.499813",
   "concerts": [
     {
       "title": "MAMAMOO 台北演唱會 2026",
@@ -27,6 +27,15 @@
       "sold_out": false,
       "url": "https://www.tickettw.com/concert-ticket/1411",
       "platform": "tickettw"
+    },
+    {
+      "title": "五月天阿信 台北演唱會 2026",
+      "date": "2026/12/06",
+      "venue": "台北小巨蛋",
+      "sale_date": "2026/11/25 TIXCRAFT",
+      "sold_out": false,
+      "url": "https://www.tickettw.com/concert-ticket/1424",
+      "platform": "TIXCRAFT"
     },
     {
       "title": "Stray Kids 台北演唱會 2026",
